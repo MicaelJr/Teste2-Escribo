@@ -28,7 +28,7 @@ As rotas utilizadas são:
 
 Utilizado a plataforma Render (https://render.com/) para realizar o deploy e colocar o servidor no ar.
 
-URL: https://teste2-escribo.onrender.com(utilizar as rotas acima)
+URL: https://teste2-escribo.onrender.com (utilizar as rotas acima)
 
 Teste realizado no Postman, após deploy. 🎉🎊✨
 
